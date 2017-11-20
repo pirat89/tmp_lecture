@@ -9,3 +9,5 @@ lorem ipsum  - hajdy domuuu
 
 
 di ende
+zprava 12345684546
+zprava do dalsiho commitu
